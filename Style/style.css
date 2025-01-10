@@ -1,0 +1,27 @@
+body{
+  font-family: "Fira Sans", serif;
+  background-color: #F5F5F5;
+}
+
+
+/* start Nav Bar */
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 160px;
+}
+
+.nav-title{
+  font-size: 32px;
+  font-weight: bold;
+}
+.btn{
+  color: #006A50;;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px 30px;
+  border: 1px solid #006A50;
+  border-radius: 8px;
+}
