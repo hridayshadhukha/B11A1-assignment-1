@@ -239,6 +239,7 @@ nav{
 
 .content-1{
   margin: 0px 40px;
+  padding-bottom: 60px;
 }
 .table-content{
   width: 1190px;
@@ -294,4 +295,151 @@ table, tr, th, td{
 }
 .fa-solid{
   padding-left: 15px;
+}
+
+/* Start a New Section-05 */
+
+.content-4{
+  margin: 0px 40px;
+}
+.heading{
+  color: #0E0E0E;
+  font-size: 40px;
+  font-weight: 700;
+}
+.paragraph-4{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 30px;
+}
+.banner-1{
+  width: 1150px;
+  height: 300px;
+  display: flex;
+  margin: 0px 40px;
+  background-color: #fff;
+  padding: 48px;
+  border-radius: 24px;
+}
+.satelite{
+  width: 408px;
+  height: 306px;
+  border-radius: 24px;
+}
+.banner-content-1{
+  padding-left: 32px;
+  margin-top: -20px;
+}
+.para-4{
+  display: flex;
+  gap: 10px;
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 400;
+  font-weight: 16px;
+  line-height: 30px;
+  margin-top: -15px;
+}
+.banner-title-1{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 32px;
+  font-weight: 700;
+}
+.al-jazeera{
+  width: 134px;
+  height: 40px;
+  margin-top: -15px;
+}
+.para-5{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: -5px;
+}
+.btn-3{
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #006A50;
+  padding: 13px 26px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+/* Start a New Section-06 */
+
+.content-5{
+  margin: 0px 120px;
+}
+.all-content-1{
+  margin-top: 80px;
+  text-align: center;
+}
+.heading-1{
+  color: #0E0E0E;
+  font-size: 40px;
+  font-weight: 700;
+}
+.paragraph-5{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/* Start a New Section-6.5 */
+
+.content-6{
+  margin: 0px 120px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+.all-content-2{
+  width: 256px;
+  height: 128px;
+  background-color: #fff;
+  text-align: center;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 18px;
+}
+.heading-2{
+  padding: 15px 20px;
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 40px;
+  font-weight: 700;
+}
+.head{
+  background-color: #C6E4D6;
+}
+.in{
+  text-align: center;
+}
+
+.input{
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0px 120px;
+  margin-top: 30px;
+  width: 950px;
+  height: 64px;
+  text-align: center;
+  padding: 0px 40px;
+  background-color: #fff;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+}
+.button-1{
+  text-align: center;
+}
+.btn-4{
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #006A50;
+  padding: 17px 34px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 30px;
+  text-align: center;
 }
